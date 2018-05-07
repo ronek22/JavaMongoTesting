@@ -1,0 +1,17 @@
+language:
+  java
+
+services:
+  - mongodb
+
+jdk:
+  oraclejdk8
+
+sudo:
+  false
+
+install:
+  true
+
+script:
+  - mvn test
