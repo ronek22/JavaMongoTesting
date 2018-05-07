@@ -4,6 +4,7 @@
 [![Build Status](https://travis-ci.com/ronek22/JavaMongoTesting.svg?branch=master)](https://travis-ci.com/ronek22/JavaMongoTesting)
 [![Maintainability](https://api.codeclimate.com/v1/badges/74c90aa5b44ed1e3e9e7/maintainability)](https://codeclimate.com/github/ronek22/JavaMongoTesting/maintainability)
 [![BCH compliance](https://bettercodehub.com/edge/badge/ronek22/JavaMongoTesting?branch=master)](https://bettercodehub.com/)
+[ ![Codeship Status for ronek22/JavaMongoTesting](https://app.codeship.com/projects/05ae2930-33c2-0136-1ea5-723dda3cee95/status?branch=master)](https://app.codeship.com/projects/288974)
 
 -----------------------
 **Projekt 4** (20 pkt)
