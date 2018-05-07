@@ -1,6 +1,10 @@
 # Testowanie aplikacji JAVA 2017-2018
 ## Projekt 2 (Maven, JUnit oraz atrapy) 
 
+[![Build Status](https://travis-ci.com/ronek22/JavaMongoTesting.svg?branch=master)](https://travis-ci.com/ronek22/JavaMongoTesting)
+[![Maintainability](https://api.codeclimate.com/v1/badges/74c90aa5b44ed1e3e9e7/maintainability)](https://codeclimate.com/github/ronek22/JavaMongoTesting/maintainability)
+[![BCH compliance](https://bettercodehub.com/edge/badge/ronek22/JavaMongoTesting?branch=master)](https://bettercodehub.com/)
+
 -----------------------
 ### REGUŁY GRY
 
